@@ -37,3 +37,11 @@ button {
 button:hover {
     background-color: #46517e;
 }
+
+footer {
+    background-color: #252b48;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
