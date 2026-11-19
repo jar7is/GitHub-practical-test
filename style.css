@@ -37,3 +37,18 @@ button {
 button:hover {
     background-color: #46517e;
 }
+nav {
+    background-color: #39446d;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+nav a:hover {
+    color: yellow;
+}
